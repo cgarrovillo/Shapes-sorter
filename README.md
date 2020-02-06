@@ -33,6 +33,7 @@ Part of CPRG-311 Advanced Object Oriented Programming
 * v - compare by volume
 * a - compare by area
 * h - compare by height
+--- 
 -s<sorting algorithm>
 * i - insertion sort
 * s - selection sort
